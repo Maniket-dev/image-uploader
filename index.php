@@ -9,7 +9,7 @@ echo "<title>Image Library Demo Application by " . $author . "</title>";
 ?>
 <style>
 body {
-    background-color: lightgrey;
+    background-color: pink;
     font-family: arial;
 }
 
